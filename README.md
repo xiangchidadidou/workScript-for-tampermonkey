@@ -1,4 +1,4 @@
-# workScript
+# tampermonkey for my job / 油猴自用工作脚本
 工作脚本，本文用于记录脚本说明、更新日志、使用方法等
 
 @说明{
